@@ -58,5 +58,5 @@ jobs:
           tar zxvf release.tgz
           npm install --production
           pm2 reload pm2.config.json
-    # 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
+    # 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
     # url = https://github.com/SteveYe-YJB/NuxtSSR.git
