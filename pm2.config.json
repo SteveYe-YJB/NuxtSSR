@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "name": "RealWorld",
+      "name": "Nuxt",
       "script": "npm",
       "args": "start"
     }
