@@ -54,8 +54,9 @@ jobs:
         port: ${{ secrets.PORT }}
         script: |
           cd /steveYe/project/nuxt
-          wget https://github.com/lipengzhou/realworld-nuxtjs/releases/latest/download/release.tgz -O release.tgz
+          wget https://github.com/SteveYe-YJB/NuxtSSR/releases/latest/download/release.tgz -O release.tgz
           tar zxvf release.tgz
           npm install --production
           pm2 reload pm2.config.json
-    # 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
+    # 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
+    # url = https://github.com/SteveYe-YJB/NuxtSSR.git
